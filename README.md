@@ -1,4 +1,17 @@
 ## Hi there 👋 😄
+Be happy 😄😄😄
+
+- ⚡ Fun fact: A Smile can Change the World
+
+😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄
+
+Thank you for visiting my profile.
+
+Have a great day and smile.
+
+You are awesome.
+
+😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄
 
 <!--
 **douglasshibata/douglasshibata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,7 +25,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: A Smile can Change the World
 -->
 <div align="center">
   <a href="https://github.com/douglasshibata">
