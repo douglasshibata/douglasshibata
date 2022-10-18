@@ -26,13 +26,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: A Smile can Change the World
--->
+
 <div align="center">
   <a href="https://github.com/douglasshibata">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglasshibata&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasshibata&layout=compact&langs_count=24&theme=dark"/>
 </div>
-  
+-->  
 ### How to reach me:
   
  <div>
